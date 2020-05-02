@@ -1,0 +1,5 @@
+/home/alex/Projects/InterpolatedStrings/InterpolatedStrings/bin/Debug/InterpolatedStrings.exe
+/home/alex/Projects/InterpolatedStrings/InterpolatedStrings/bin/Debug/InterpolatedStrings.pdb
+/home/alex/Projects/InterpolatedStrings/InterpolatedStrings/obj/x86/Debug/InterpolatedStrings.csprojAssemblyReference.cache
+/home/alex/Projects/InterpolatedStrings/InterpolatedStrings/obj/x86/Debug/InterpolatedStrings.exe
+/home/alex/Projects/InterpolatedStrings/InterpolatedStrings/obj/x86/Debug/InterpolatedStrings.pdb
